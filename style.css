@@ -306,18 +306,7 @@ ul.share-buttons{
     width: 1px;
     overflow: hidden;
   }
-  
-  ul.share-buttons img{
-    width: 32px;
-    opacity: 0.9;
-    text-align: center;
-  }
-  ul.share-buttons {
-    list-style: none;
-    padding: 10px 2% 0 0;
-    text-align: right;
-}
-#social-btn{
+  #social-btn{
     margin-bottom: 8px;
 }
 /* end of 3顆按鈕 */
