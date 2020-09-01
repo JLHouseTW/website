@@ -1,0 +1,324 @@
+.cover_1 .heading {
+    color: white;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 1.5;
+}
+
+.site-header {
+    padding: 10px 20px;
+ 
+}
+
+.btn.btn-outline-white {
+    border: 2px solid #fff;
+    background: none;
+    color: #fff;
+    text-decoration: none;
+    width:280px;
+}
+
+#learn_more{
+    color:  #ff7a5c;
+    opacity: 0.5;
+}
+#learn_more:hover{
+    opacity: 1;
+}
+
+#footer_jl{
+    color: white;
+}
+
+#jl_service{
+    justify-content: center;
+    vertical-align: middle;
+}
+
+#jl_logo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+#buffer_jl{
+    height: 7px;
+}
+#mc_embed_signup, #mc_embed_signup_scroll{
+  background-color:  #121212;
+}
+#chimp_button{
+    justify-content: end;
+}
+#mc-embedded-subscribe{
+    justify-content: end;
+    
+}
+
+#mc_embed_signup form {
+    text-align: left;
+}
+/* 3顆社交分享按紐 */
+ul.share-buttons{
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul.share-buttons li{
+    display: inline;
+  }
+  
+  ul.share-buttons .sr-only{
+    position: absolute;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0;
+    border: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+  }
+  
+  ul.share-buttons img{
+    width: 32px;
+    opacity: 0.9;
+    text-align: center;
+  }
+  ul.share-buttons {
+    list-style: none;
+    padding: 8px 2% 0 0;
+    text-align: right;
+}
+#social-btn{
+    margin-bottom: 8px;
+}
+/* end of 3顆按鈕 */
+
+
+
+.site-header.hidden-xs{
+    display: flex;
+    margin-bottom: -5px;
+    justify-content: center;
+}
+
+
+
+.site-brand, .site-logo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0px;
+    padding: 0px 30px;
+}
+
+.jl_logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.left_small_para{
+    text-align: center;
+    /* line-height: 1.6; */
+    /* font-size:10px; */
+    justify-content: center;
+    font-weight: lighter;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.logo_text{
+    text-align: center;
+    line-height: 1.1;
+    font-size:12px;
+    color:black;
+    /* justify-content: center; */
+    font-weight: lighter;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 26px;
+}
+.sidebar{
+    padding: 30px 10px 30px 10px;
+    width: 225px;
+}
+
+
+.nav>li>a{
+    padding: 2px 33px;
+}
+
+.nav{
+    
+    line-height: normal;
+}
+
+#pinkoi-sub {
+    padding-left: 4px;
+    padding-top: 1px;
+    color: #555;
+    line-height: 1.2;
+    font-size: 13px;
+}
+#pinkoi-sub *{
+    color: #555;
+}
+
+#pinkoi-sub *:hover{
+    color: #ff6360;
+}
+
+.nav-footer {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 5px;
+}
+
+
+.pinkoi{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.pinkoi:hover{
+    transition: 0.5s;
+    
+}
+
+.inbloom{
+    font-size: 10px;
+    
+    
+}
+
+.btn_course{
+    
+    vertical-align: bottom;
+    /* width:70px; */
+    border-radius: 20px;
+    padding:2px 20px;
+}
+
+.gmap{
+    border-width: 2px;
+}
+
+.swing{
+    animation-duration: 1.5s;
+}
+/* .grid-item .project-description { */
+#jl_descript{
+    opacity: 0.8;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+    background: hsla(0,0%,100%,0.4);
+    position: absolute;
+    width: 90%;
+    
+    bottom: 0;
+    top: 75%;
+    margin: 5%;
+    text-decoration: none;
+    height: 18%;
+}
+
+#jl_descript:hover{
+    opacity: 1;
+    -webkit-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+    background: hsla(0,0%,100%,.7);
+    position: absolute;
+    width: 90%;
+    
+    bottom: 0;
+    top: 75%;
+    margin: 5%;
+    text-decoration: none;
+    height: 18%;
+}
+
+
+/* .grid-item .project-description .project-text-holder */
+
+
+#jl_cat {
+    display: table;
+    position: absolute;
+    text-align: center;
+    vertical-align: bottom;
+    width: 100%;
+    height: 25%;
+    overflow: hidden;
+    opacity: 1;
+    bottom: 0px;
+}
+
+/* #jl_descript>.project-text-holder>.project-text-inner>h3{
+    color: rgb(53, 52, 52);
+    font-weight: lighter;
+}
+#jl_descript>.project-text-holder>.project-text-inner>h4{
+    color: rgb(53, 52, 52);
+    
+    font-weight: lighter;
+}
+#jl_descript>.project-text-holder>.project-text-inner>h5{
+    color: rgb(53, 52, 52);
+    font-weight: lighter;
+}
+#jl_descript>.project-text-holder>.project-text-inner>h6{
+    color: rgb(53, 52, 52);
+    font-weight: lighter;
+} */
+
+#jl_descript *{
+    color: rgb(53, 52, 52);
+    font-weight: lighter;
+}
+
+.project-description *{
+    color: rgb(53, 52, 52);
+    font-weight: lighter;
+}
+
+/* 3顆社交分享按紐 */
+ul.share-buttons{
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul.share-buttons li{
+    display: inline;
+  }
+  
+  ul.share-buttons .sr-only{
+    position: absolute;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0;
+    border: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+  }
+  
+  ul.share-buttons img{
+    width: 32px;
+    opacity: 0.9;
+    text-align: center;
+  }
+  ul.share-buttons {
+    list-style: none;
+    padding: 10px 2% 0 0;
+    text-align: right;
+}
+#social-btn{
+    margin-bottom: 8px;
+}
+/* end of 3顆按鈕 */
+
