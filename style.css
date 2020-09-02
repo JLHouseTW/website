@@ -45,6 +45,18 @@
 #buffer_jl{
     height: 7px;
 }
+#side-logo-div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#side-logo{
+    
+    padding-bottom: 14px;
+    width: 50%;
+}
+
+
 #mc_embed_signup, #mc_embed_signup_scroll{
   background-color:  #121212;
 }
@@ -103,6 +115,21 @@ ul.share-buttons{
     justify-content: center;
 }
 
+.site-menu{
+    background:#f9f9f9;
+    top: -48px;
+    
+    
+}
+
+.site-menu ul > li a {
+    color: #000;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+.site-menu ul > li {
+    margin: 0 0 0px 0;
+}
 
 
 .site-brand, .site-logo {
