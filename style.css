@@ -120,6 +120,13 @@ ul.share-buttons{
     margin-bottom: -5px;
     justify-content: center;
 }
+.site-header.scrolled{
+padding: 4px 20px;
+}
+.site-header.scrolled .site-nav-toggle {
+    top: -9px !important;
+}
+
 
 .site-menu{
     background:#f9f9f9;
