@@ -1,3 +1,8 @@
+html,body {
+    margin: 0 auto;
+    height: 100%;
+}
+
 .cover_1 .heading {
     color: white;
     font-weight: 300;
@@ -337,8 +342,18 @@ ul.share-buttons{
     width: 1px;
     overflow: hidden;
   }
-  #social-btn{
-    margin-bottom: 8px;
+#social-btn {
+   
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 5px 0px;
+    
+}
+#social-btn *{
+   
+    
+    color:gray;
+    font-size:15px;
 }
 /* end of 3顆按鈕 */
 
