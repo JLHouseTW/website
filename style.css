@@ -51,14 +51,14 @@ html,body {
     height: 7px;
 }
 #side-logo-div{
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-content: center;
+    align-content: center; */
 }
 #side-logo{
     
     padding-bottom: 24px;
-    width: 100px ;
+    width: 35% ;
 }
 
 
