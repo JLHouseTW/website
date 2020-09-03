@@ -52,7 +52,7 @@
 }
 #side-logo{
     
-    padding-bottom: 14px;
+    padding-bottom: 24px;
     width: 50%;
 }
 
@@ -118,6 +118,7 @@ ul.share-buttons{
 .site-menu{
     background:#f9f9f9;
     top: -48px;
+    width: 225px;
     
     
 }
@@ -131,6 +132,9 @@ ul.share-buttons{
     margin: 0 0 0px 0;
 }
 
+#ftco-navbar-spy *{
+    line-height: 1.5;
+}
 
 .site-brand, .site-logo {
     display: flex;
