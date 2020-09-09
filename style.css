@@ -363,3 +363,10 @@ ul.share-buttons{
 }
 /* end of 3顆按鈕 */
 
+#news-info{
+    background-color: #f5f5dc;
+    padding-top: 5px;
+}
+#news-hash{
+    font-size: 10px;
+}
