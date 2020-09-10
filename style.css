@@ -363,12 +363,32 @@ ul.share-buttons{
 }
 /* end of 3顆按鈕 */
 
-#news-info{
+#news-info>h4{
     /* background-color: #f5f5dc; */
     /* padding-top: 10px;
     margin: 20px 5px; */
+    font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+    color: #363839;
+    font-size:18px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+#news-info>h6{
+    /* background-color: #f5f5dc; */
+    /* padding-top: 10px;
+    margin: 20px 5px; */
+    font-family: Source Sans Pro,Helvetica,Arial,sans-serif;
+    color: #888888;
+    margin-bottom: 0px;
+    font-size:12px;
+}
+#news-info>p{
+    font-size:15px;
 }
 #news-hash{
-    font-size: 10px;
+    font-size: 11px;
+    color: #aaaaaa;
 }
-
+h1{
+    color: #555555;
+}
