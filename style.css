@@ -269,13 +269,13 @@ a.mashup{
     transition: all .3s linear;
     background: hsla(0,0%,100%,0.4);
     position: absolute;
-    width: 90%;
+    width: 98%;
     
     bottom: 0;
-    top: 75%;
-    margin: 5%;
+    top: 77%;
+    margin: 0%;
     text-decoration: none;
-    height: 18%;
+    height: 20%;
 }
 
 #jl_descript:hover{
@@ -285,13 +285,13 @@ a.mashup{
     transition: all .3s linear;
     background: hsla(0,0%,100%,.7);
     position: absolute;
-    width: 90%;
+    width: 98%;
     
     bottom: 0;
     top: 75%;
-    margin: 5%;
+    margin: 0%;
     text-decoration: none;
-    height: 18%;
+    height: 20%;
 }
 
 
@@ -310,27 +310,11 @@ a.mashup{
     bottom: 0px;
 }
 
-/* #jl_descript>.project-text-holder>.project-text-inner>h3{
-    color: rgb(53, 52, 52);
-    font-weight: lighter;
-}
-#jl_descript>.project-text-holder>.project-text-inner>h4{
-    color: rgb(53, 52, 52);
-    
-    font-weight: lighter;
-}
-#jl_descript>.project-text-holder>.project-text-inner>h5{
-    color: rgb(53, 52, 52);
-    font-weight: lighter;
-}
-#jl_descript>.project-text-holder>.project-text-inner>h6{
-    color: rgb(53, 52, 52);
-    font-weight: lighter;
-} */
 
 #jl_descript *{
     color: rgb(53, 52, 52);
     font-weight: lighter;
+    line-height: 10px;
 }
 
 .project-description *{
