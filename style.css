@@ -154,7 +154,7 @@ padding: 4px 20px;
     justify-content: center;
     text-align: center;
     margin-left: 0px;
-    padding: 0px 30px;
+    padding: 10px 45px 0px;
 }
 
 .jl_logo{
@@ -186,7 +186,7 @@ padding: 4px 20px;
     padding-bottom: 26px;
 }
 .sidebar{
-    padding: 20px 10px 30px 10px;
+    /* padding: 20px 10px 30px 10px; */
     width: 225px;
 }
 p.mashup{
