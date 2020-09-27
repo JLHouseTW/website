@@ -391,7 +391,11 @@ h1{
 
 #prod_h3{
     color: #555;
+    margin-bottom: 28px;
 }
 #prod_h1{
     color: #222222;
+}
+#prod_img{
+    min-width:100%;
 }
