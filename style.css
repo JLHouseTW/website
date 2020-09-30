@@ -399,3 +399,17 @@ h1{
 #prod_img{
     min-width:100%;
 }
+
+#dpi-img{
+    padding-top: 1rem;
+    padding-bottom: 3.5rem;
+    width: 18rem;
+}
+#press{
+    text-align:center;
+}
+
+#dpi-cont{
+    padding-right:1rem;
+    width: 15rem;
+}
