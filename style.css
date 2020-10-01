@@ -359,7 +359,9 @@ ul.share-buttons{
     font-size:13px;
 }
 /* end of 3顆按鈕 */
-
+#news-info{
+    height: 700px;
+}
 #news-info>h4{
     /* background-color: #f5f5dc; */
     /* padding-top: 10px;
