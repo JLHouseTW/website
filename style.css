@@ -154,7 +154,7 @@ padding: 4px 20px;
     justify-content: center;
     text-align: center;
     margin-left: 0px;
-    padding: 10px 40px 0px;
+    padding: 10px 43px 17px;
 }
 
 .jl_logo{
@@ -176,15 +176,16 @@ padding: 4px 20px;
 
 
 .logo_text{
-    text-align: center;
-    line-height: 1.1;
-    font-size:12px;
+    /* text-align: center; */
+    line-height: 1.2;
+    font-size:1.2rem;
     color:black;
     /* justify-content: center; */
     font-weight: lighter;
     margin-right: 0px;
-    margin-left: 0px;
+    margin-left: 34px;
     padding-bottom: 26px;
+    color: #555;
 }
 .sidebar{
     padding: 0px 0px 0px 0px;
@@ -204,7 +205,7 @@ a.mashup{
 
 
 .nav>li>a{
-    padding: 2px 33px;
+    padding: 2px 29px;
 }
 
 .nav{
@@ -217,7 +218,7 @@ a.mashup{
     padding-top: 1px;
     color: #555;
     line-height: 1.2;
-    font-size: 13px;
+    font-size: 1.2rem;
 }
 #pinkoi-sub *{
     color: #555;
