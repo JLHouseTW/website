@@ -359,6 +359,27 @@ ul.share-buttons{
     font-size:13px;
 }
 /* end of 3顆按鈕 */
+#blog-info{
+    /* height: 600px; */
+    line-height: 1.7rem;
+    padding-bottom: 3rem;
+}
+
+#blog-img{
+    padding-bottom: 7px;
+}
+
+#blog-info>p{
+    font-size:1.3rem;
+}
+
+#blog-hash{
+    font-size:0.9rem;
+    color: #999999;
+}
+
+
+
 #news-info{
     height: 750px;
 }
