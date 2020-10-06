@@ -381,7 +381,8 @@ ul.share-buttons{
 
 
 #news-info{
-    height: 750px;
+    /* height: 750px; */
+    line-height: 1.7rem;
 }
 #news-info>h4{
     /* background-color: #f5f5dc; */
@@ -403,7 +404,7 @@ ul.share-buttons{
     font-size:12px;
 }
 #news-info>p{
-    font-size:15px;
+    font-size:1.3rem;
 }
 #news-hash{
     font-size: 11px;
