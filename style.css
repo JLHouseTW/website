@@ -283,6 +283,24 @@ a.mashup{
     height: 20%;
 }
 
+#jl_descript *{
+    color: rgb(53, 52, 52);
+    font-weight: lighter;
+    line-height: 1rem;
+}
+
+#prod-title{
+    font-size: medium;
+}
+
+#prod-descript{
+    font-size: small;
+}
+
+#prod-h6{
+    font-size: x-small;
+}
+
 #jl_descript:hover{
     opacity: 1;
     -webkit-transition: all .3s linear;
@@ -316,11 +334,7 @@ a.mashup{
 }
 
 
-#jl_descript *{
-    color: rgb(53, 52, 52);
-    font-weight: lighter;
-    line-height: 14px;
-}
+
 
 .project-description *{
     color: rgb(53, 52, 52);
