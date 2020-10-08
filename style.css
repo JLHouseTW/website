@@ -185,22 +185,25 @@ padding: 4px 20px;
     margin-right: 0px;
     margin-left: 34px;
     padding-bottom: 26px;
-    color: #555;
+    color: #303233;
 }
 .sidebar{
     padding: 0px 0px 0px 0px;
     width: 206px;
 }
 .nav-footer-social-buttons {
-    margin-left: 0px;
+    margin-left: 17px;
+    opacity: 0.5;
 }
 p.mashup{
-    font-size: smaller;
-    color: #555555;
-    margin:10px;
+    font-size: 0.5rem;
+    color: #999999;
+    margin-left:23px;
+    margin-bottom: 1px;
+    line-height: 1.3rem;
 }
 a.mashup{
-    color: #555555;
+    color: #999999;
 }
 
 
@@ -216,12 +219,12 @@ a.mashup{
 #pinkoi-sub {
     padding-left: 4px;
     padding-top: 1px;
-    color: #555;
+    color: #303233;
     line-height: 1.2;
     font-size: 1.2rem;
 }
 #pinkoi-sub *{
-    color: #555;
+    color: #303233;
 }
 
 #pinkoi-sub *:hover{
@@ -331,11 +334,12 @@ a.mashup{
     top: 77%;
     margin: 0%;
     text-decoration: none;
-    height: 20%;
+    height: 19%;
 }
 
 #jl_descript *{
-    color: rgb(53, 52, 52);
+    /* color: rgb(53, 52, 52); */
+    color: #222222;
     font-weight: lighter;
     line-height: 1rem;
 }
@@ -357,7 +361,7 @@ a.mashup{
     -webkit-transition: all .3s linear;
     -o-transition: all .3s linear;
     transition: all .3s linear;
-    background: hsla(0,0%,100%,.7);
+    background: hsla(0,0%,100%,.8);
     position: absolute;
     width: 98%;
     
