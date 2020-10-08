@@ -267,6 +267,31 @@ a.mashup{
     animation-duration: 1.5s;
 }
 /* .grid-item .project-description { */
+#about{
+    color: #000000;
+    font-size: 30px;
+}
+#about-link{
+    font-size: 16px;
+    text-decoration: none;
+}
+#about-link:hover{
+    font-size: 20px;
+    -webkit-transition: all .3s linear;
+
+}
+
+#product-title{
+    margin-top: -16px;
+    padding-left: 0px;
+}
+    
+
+#product-grid{
+    margin-top: 74px;
+
+}
+
 #jl_descript{
     opacity: 0.8;
     -webkit-transition: all .3s linear;
