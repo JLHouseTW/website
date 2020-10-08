@@ -275,17 +275,43 @@ a.mashup{
     font-size: 16px;
     text-decoration: none;
 }
+
 #about-link:hover{
-    font-size: 20px;
+    font-size: 17px;
+    font-weight: bold;
     -webkit-transition: all .3s linear;
 
 }
+
+#news-link{
+    
+    text-decoration: none;
+}
+#news-link:hover{
+    
+    font-weight: bold;
+    -webkit-transition: all .3s linear;
+
+}
+
+
+#news-title{
+    margin-top: -16px;
+    padding-left: 0px;
+    margin-bottom: -18px;
+}
+#news-title *{
+    color: #303233;
+}
+
 
 #product-title{
     margin-top: -16px;
     padding-left: 0px;
 }
-    
+#product-title *{
+    color: #303233;
+}    
 
 #product-grid{
     margin-top: 74px;
