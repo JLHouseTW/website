@@ -57,8 +57,8 @@ html,body {
 }
 #side-logo{
     
-    padding-bottom: 24px;
-    width: 35% ;
+    padding-bottom: 35px;
+    width: 55% ;
 }
 
 
@@ -130,9 +130,10 @@ padding: 4px 20px;
 
 .site-menu{
     background:#f9f9f9;
-    top: -48px;
-    width: 225px;
-    
+    top: -80px;
+    width: 160px;
+    font-size: 1rem;
+    line-height: 1.2rem;
     
 }
 
